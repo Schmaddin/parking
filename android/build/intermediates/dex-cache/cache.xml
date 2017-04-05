@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/org.mapsforge/vtm/0.6.0/8be18e5068fcfb406950be54a43776c73f563f5e/vtm-0.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8be18e5068fcfb406950be54a43776c73f563f5e">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/vtm-0.6.0_9405118324e9a9d6a9503a7ee6a4d50e7b98bac8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/com.vividsolutions/jts/1.13/3ccfb9b60f04d71add996a666ceb8902904fd805/jts-1.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ccfb9b60f04d71add996a666ceb8902904fd805">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jts-1.13_0498948fa921204e04d12291973f41f370f741bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/com.carrotsearch/hppc/0.7.2/710398361f2ae8fd594a133e3619045c16b24137/hppc-0.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="710398361f2ae8fd594a133e3619045c16b24137">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/hppc-0.7.2_f763762a5e5412f0147cd8afbd2ec6b3aec306e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/2790c170a3291f7d5a80d90274e641af2014758b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98be035a2a069b6b26efbcfabe2fab2f2c9b7b95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/20f212356b824ae2733324399a70a3d9f29c9b00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cbd47e6b81527cfc05051a5674669fb1259dd8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eaf98892e0f806dd6294aa8151c48d55bfed5365">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9f8d737f49d154d4d40e9202bdc2026e4ec9732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_89c4fab7de489296b98cd56c651fcf4c1487e31e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1c4132dd2d386a819199b7e738c4d6e60897670">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_032bd08d9f6b52571dbc32e1338a0ae25ebc085f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d0d1b66f9b396fb84d6ac157b1d85e1d9fb7f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be31f09ba6e1218546ea48c4d2d01ffe8f475cca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/326a0c390b1e889c14411456e8e925771354af47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68b857bd5ee18fb520440d10e395fc585e7e9a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/org.mapsforge/vtm-jts/0.6.0/7001b58ef42a8efd86ee01d753c058871f21924a/vtm-jts-0.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7001b58ef42a8efd86ee01d753c058871f21924a">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/vtm-jts-0.6.0_266686f1a00d0e0160748362ca2dff03b3ac01e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/com.caverock/androidsvg/1.2.2-beta-1/d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9/androidsvg-1.2.2-beta-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidsvg-1.2.2-beta-1_d825759538b2a2710b3ec469f1a27b4679602e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ff85bb08facfbaa19d529be27738fd354baaab7">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_541d350351f0074a8033a3968f8a64773e455b01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/com.graphhopper/graphhopper-core/0.9-SNAPSHOT/da9405f1ed9bc5b390895fbafea4fd86836f2571/graphhopper-core-0.9-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da9405f1ed9bc5b390895fbafea4fd86836f2571">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/graphhopper-core-0.9-SNAPSHOT_2b1856776a6181b63b573bc8a15f7f3c72de7317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.7.21/f4f6a07c00f3996d8db58c85a3d73377b40611eb/slf4j-android-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4f6a07c00f3996d8db58c85a3d73377b40611eb">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-android-1.7.21_98729678d6fbb009bb32199118e5513cdb5d0aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/5f417ed4cb41bc47260bddf39f687e459eb6a0ec/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_d53aef4b662531a3088cbfa8f8a412f7b4cb96c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/e6d0e53c771f961cf26134e35409b12f0adcdf53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3243d275be4f6310d95aeaac847a2df446ccfdc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/02db3337ad88dcbde4a68961448c4dcdbfe15755/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2656c0b77e6fced751a393b1d1d7cf4c4653700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/org.mapsforge/vtm-android/0.6.0/28ecd3abee37d70fc553ace14a8d21fc2e192590/vtm-android-0.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28ecd3abee37d70fc553ace14a8d21fc2e192590">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/vtm-android-0.6.0_715399dde4d44d360c0aff04726c33bd7d411d3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/5f417ed4cb41bc47260bddf39f687e459eb6a0ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36483b77f11ed78388ded1d8acc3c35f63e89019/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/org.mapsforge/vtm-themes/0.6.0/1f5f730b2322b686f7046310813e289814bcb86a/vtm-themes-0.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f5f730b2322b686f7046310813e289814bcb86a">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/vtm-themes-0.6.0_49f41b4d40cbf98057e26d35bccb49a2442eb4c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9ad15788db15d421148cb27dd57d818bbfdbd98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/martinwurflein/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.21_9888b09e067053a980b8b8e5e53973ad9f9b27bb/classes.dex" />
+    </item>
+
+</items>

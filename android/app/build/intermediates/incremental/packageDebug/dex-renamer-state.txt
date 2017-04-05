@@ -1,0 +1,7 @@
+#Thu Mar 30 12:55:34 CEST 2017
+base.0=/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d0d1b66f9b396fb84d6ac157b1d85e1d9fb7f6b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9f8d737f49d154d4d40e9202bdc2026e4ec9732/classes.dex
+base.1=/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9f8d737f49d154d4d40e9202bdc2026e4ec9732
+file.0=/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d0d1b66f9b396fb84d6ac157b1d85e1d9fb7f6b/classes.dex

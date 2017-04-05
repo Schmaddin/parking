@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/layout/pay.xml",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/layout/pay.xml"
+    }
+]

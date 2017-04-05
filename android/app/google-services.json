@@ -1,0 +1,83 @@
+{
+
+  "project_info": {
+
+    "project_number": "654079683579",
+
+    "firebase_url": "https://carpark-bfa2f.firebaseio.com",
+
+    "project_id": "carpark-bfa2f",
+
+    "storage_bucket": "carpark-bfa2f.appspot.com"
+
+  },
+
+  "client": [
+
+    {
+
+      "client_info": {
+
+        "mobilesdk_app_id": "1:654079683579:android:cdebe81111135223",
+
+        "android_client_info": {
+
+          "package_name": "com.graphhopper.android"
+
+        }
+
+      },
+
+      "oauth_client": [
+
+        {
+
+          "client_id": "654079683579-sosjka6g1vvqa6bs0fj1jcihca9git7r.apps.googleusercontent.com",
+
+          "client_type": 3
+
+        }
+
+      ],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyBlzgTN6OBf_kWeUJvzxDWcCF7BzHEyyKA"
+
+        }
+
+      ],
+
+      "services": {
+
+        "analytics_service": {
+
+          "status": 1
+
+        },
+
+        "appinvite_service": {
+
+          "status": 1,
+
+          "other_platform_oauth_client": []
+
+        },
+
+        "ads_service": {
+
+          "status": 2
+
+        }
+
+      }
+
+    }
+
+  ],
+
+  "configuration_version": "1"
+
+}

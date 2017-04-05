@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/drawable-hdpi/parkcharge.png",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/drawable-hdpi/parkcharge.png"
+    },
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/drawable-hdpi/noparking.png",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/drawable-hdpi/noparking.png"
+    },
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/drawable-hdpi/marker_icon_green.png",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/drawable-hdpi/marker_icon_green.png"
+    },
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/drawable-hdpi/wheelchair.png",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/drawable-hdpi/wheelchair.png"
+    },
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/drawable-hdpi/marker_icon_red.png",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/drawable-hdpi/marker_icon_red.png"
+    },
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/drawable-hdpi/parking.png",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/drawable-hdpi/parking.png"
+    },
+    {
+        "merged": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/res/merged/debug/drawable-hdpi/tesla.png",
+        "source": "/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/res/drawable-hdpi/tesla.png"
+    }
+]

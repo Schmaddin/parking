@@ -1,0 +1,4 @@
+#Thu Mar 30 00:06:47 CEST 2017
+base.0=/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

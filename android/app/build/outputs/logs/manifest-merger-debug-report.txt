@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:15:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/martinwurflein/.android/build-cache/e6d0e53c771f961cf26134e35409b12f0adcdf53/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:16:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/martinwurflein/.android/build-cache/e6d0e53c771f961cf26134e35409b12f0adcdf53/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:11:22-76
+uses-sdk
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:14:5-16:41
+MERGED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/martinwurflein/.android/build-cache/bc3687d8f07d9e92a6e1cfdb3a25329d39165334/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/martinwurflein/.android/build-cache/e6d0e53c771f961cf26134e35409b12f0adcdf53/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/martinwurflein/.android/build-cache/20f212356b824ae2733324399a70a3d9f29c9b00/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/martinwurflein/.android/build-cache/326a0c390b1e889c14411456e8e925771354af47/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/martinwurflein/.android/build-cache/02db3337ad88dcbde4a68961448c4dcdbfe15755/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/martinwurflein/.android/build-cache/2790c170a3291f7d5a80d90274e641af2014758b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /Users/martinwurflein/.android/build-cache/5f417ed4cb41bc47260bddf39f687e459eb6a0ec/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:16:9-38
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:15:9-35
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:18:5-33:19
+MERGED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:21:5-40:19
+MERGED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/martinwurflein/.android/build-cache/bc3687d8f07d9e92a6e1cfdb3a25329d39165334/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/martinwurflein/.android/build-cache/e6d0e53c771f961cf26134e35409b12f0adcdf53/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/martinwurflein/.android/build-cache/20f212356b824ae2733324399a70a3d9f29c9b00/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/martinwurflein/.android/build-cache/326a0c390b1e889c14411456e8e925771354af47/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/martinwurflein/.android/build-cache/02db3337ad88dcbde4a68961448c4dcdbfe15755/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/martinwurflein/.android/build-cache/2790c170a3291f7d5a80d90274e641af2014758b/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /Users/martinwurflein/.android/build-cache/5f417ed4cb41bc47260bddf39f687e459eb6a0ec/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:20:9-38
+	android:theme
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.graphhopper.android.MainActivity
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:23:9-32:20
+	android:label
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:25:13-56
+	android:configChanges
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:26:13-74
+	android:name
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/martinwurflein/Documents/workspace2017/0.9/graphhopper/android/app/src/main/AndroidManifest.xml:30:27-74
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:11:5-13:36
+MERGED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:10:5-68
+	android:required
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:12:9-52
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:14:5-16:36
+MERGED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:11:5-74
+	android:required
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:15:9-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:17:22-78
+uses-permission-sdk-23
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:19:29-85
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:22:19-87
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:24:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:25:17-87
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:25:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:26:17-90
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:26:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:30:9-35:38
+	android:enabled
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:32:13-35
+	android:label
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:33:13-37
+	android:isolatedProcess
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:31:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:androidbeacon:] /Users/martinwurflein/.android/build-cache/d89d323e2d2eaa7de8ea3382aba93fa565b11e42/output/AndroidManifest.xml:37:13-70
+uses-feature#android.hardware.bluetooth_le
+ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:19:9-53
+service#com.estimote.sdk.service.BeaconService
+ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:24:13-66
+service#com.estimote.sdk.repackaged.dfu_v0_6_1.no.nordicsemi.android.dfu.DfuBaseService
+ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:26:9-115
+	android:name
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:26:18-112
+activity#com.estimote.sdk.DefaultRequirementsCheckerCallback$Activity
+ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:28:9-30:56
+	android:theme
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:29:13-88
+receiver#com.estimote.sdk.service.BeaconService$ScanAlarmBroadcastReceiver
+ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:32:9-102
+	android:name
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:32:19-99
+service#com.estimote.sdk.connection.internal.DeviceConnectionProviderService
+ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.estimote:sdk:0.11.1] /Users/martinwurflein/.android/build-cache/57ac469b785386ce9dc83d3482c1e009c91a4ff9/output/AndroidManifest.xml:35:13-96
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/martinwurflein/.android/build-cache/e6d0e53c771f961cf26134e35409b12f0adcdf53/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/martinwurflein/.android/build-cache/e6d0e53c771f961cf26134e35409b12f0adcdf53/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/martinwurflein/.android/build-cache/e6d0e53c771f961cf26134e35409b12f0adcdf53/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/martinwurflein/.android/build-cache/f9a1d852575f28da5d5c5c947ac345f4f3da126d/output/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/martinwurflein/.android/build-cache/20f212356b824ae2733324399a70a3d9f29c9b00/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/martinwurflein/.android/build-cache/20f212356b824ae2733324399a70a3d9f29c9b00/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/martinwurflein/.android/build-cache/20f212356b824ae2733324399a70a3d9f29c9b00/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/martinwurflein/.android/build-cache/20f212356b824ae2733324399a70a3d9f29c9b00/output/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/martinwurflein/.android/build-cache/7fd39ab4011868a0d893609e3045637f91451ca1/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/martinwurflein/.android/build-cache/326a0c390b1e889c14411456e8e925771354af47/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/martinwurflein/.android/build-cache/326a0c390b1e889c14411456e8e925771354af47/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/martinwurflein/.android/build-cache/326a0c390b1e889c14411456e8e925771354af47/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/martinwurflein/.android/build-cache/326a0c390b1e889c14411456e8e925771354af47/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/martinwurflein/.android/build-cache/326a0c390b1e889c14411456e8e925771354af47/output/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/martinwurflein/.android/build-cache/2790c170a3291f7d5a80d90274e641af2014758b/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/martinwurflein/.android/build-cache/2790c170a3291f7d5a80d90274e641af2014758b/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/martinwurflein/.android/build-cache/2790c170a3291f7d5a80d90274e641af2014758b/output/AndroidManifest.xml:22:13-58

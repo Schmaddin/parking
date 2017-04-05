@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="86dp"
+        android:text="You car is parking on a pay parking spot. Stay here?"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textStyle="italic"
+        android:textColor="@android:color/holo_blue_dark"
+        android:layout_margin="30dp"
+        android:layout_alignParentTop="true" />
+    <TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        android:text="1 € per hour (min. 1 €)"
+    android:textAppearance="@android:style/TextAppearance.Large"
+    android:textStyle="italic"
+    android:textColor="@android:color/holo_orange_dark"
+        android:layout_alignTop="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="69dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:text="YES (automatic GiroPay)"
+        android:onClick="enterSpace"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:text="NO (leave the space directly)"
+        android:onClick="leaveSpace"/>
+</RelativeLayout>
